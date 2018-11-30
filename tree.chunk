@@ -1,0 +1,10 @@
+#arguments: IOB tag: Begin, word numbering: file
+#columns: file_id sent_id word_id iob_inner pos word
+    1  1  0 B-NP    NR    上海         
+    1  1  1 I-NP    NR    浦东         
+    1  1  2 B-NP    NN    开发         
+    1  1  3 I-NP    CC    与            
+    1  1  4 I-NP    NN    法制         
+    1  1  5 I-NP    NN    建设         
+    1  1  6 B-VP    VV    同步         
+
